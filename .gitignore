@@ -4,6 +4,7 @@
 *.jpeg
 *.zip
 anime-segmentation/*
+!assets/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
